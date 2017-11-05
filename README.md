@@ -5,6 +5,19 @@
 * The thing that surprised me was the capabilities of the git rebase;
 * I think that in the future I will use the majority of git commands and github functionality, which I got acquainted with during the git courses.
 
+## Task 1:
+1. Linux Command Line Basics:
+
+![Linux Command Line Basics](task_01/linux-command-line-basics-udacity.png)
+
+2. Configuring Linux Web Servers:
+
+![Configuring Linux Web Servers](task_01/configuring-linux-web-servers-udacity.png)
+
+3. Networking for Web Developers:
+
+![Networking for Web Developers](task_01/networking-for-web-developers-udacity.png)
+
 ## Task 2:
 1. What is Version Control:
 
