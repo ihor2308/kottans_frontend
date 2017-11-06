@@ -33,10 +33,16 @@
 ## Task 2:
 In my opinion, it was the most exciting Git course, mainly due to the interactivity and the way the information is organized.
 
-1. What is Version Control:
+### 1. What is Version Control:
 
 ![What is version Control Udacity Course](task_02/version-control-with-git-udacity.png)
 
-2. GitHub & Collaboration:
+### 2. GitHub & Collaboration:
 
 ![GitHub & Collaboration Udacity Course](task_02/github-collaboration-udacity.png)
+
+## Task 3 (Intro to HTML & CSS):
+The course gives very basic knowledge about HTML and CSS. To my mind, the course will be useful for beginners with no experience at all.
+
+### HTML and CSS Syntax:
+![HTML and CSS Syntax](task_03/html-and-css-syntax-udacity.png)
