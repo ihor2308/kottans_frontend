@@ -14,19 +14,25 @@
 ![try.github.io](task_0/git-tutorial-try-git.png)
 
 ## Task 1:
-1. Linux Command Line Basics:
+* I have learned a lot of new things, including networking and HTTP Protocol. Unfortunately, the information is hard to perceive without practical experience in this field;
+* I was surprised about the amount of IP addresses in the network and -nc command;
+* I think in the future I will often use linux command line and the knowledge I got about networks and HTTP Protocol.
+
+### 1. Linux Command Line Basics:
 
 ![Linux Command Line Basics](task_01/linux-command-line-basics-udacity.png)
 
-2. Configuring Linux Web Servers:
+### 2. Configuring Linux Web Servers:
 
 ![Configuring Linux Web Servers](task_01/configuring-linux-web-servers-udacity.png)
 
-3. Networking for Web Developers:
+### 3. Networking for Web Developers:
 
 ![Networking for Web Developers](task_01/networking-for-web-developers-udacity.png)
 
 ## Task 2:
+In my opinion, it was the most exciting Git course, mainly due to the interactivity and the way the information is organized.
+
 1. What is Version Control:
 
 ![What is version Control Udacity Course](task_02/version-control-with-git-udacity.png)
