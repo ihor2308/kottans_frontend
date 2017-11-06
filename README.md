@@ -5,6 +5,14 @@
 * The thing that surprised me was the capabilities of the git rebase;
 * I think that in the future I will use the majority of git commands and github functionality, which I got acquainted with during the git courses.
 
+### 1. How to use Git and GitHub:
+
+![How to use Git and GitHub](task_0/how-to-use-git-and-github-udacity.png)
+
+### 2. try.github.io:
+
+![try.github.io](task_0/git-tutorial-try-git.png)
+
 ## Task 1:
 1. Linux Command Line Basics:
 
